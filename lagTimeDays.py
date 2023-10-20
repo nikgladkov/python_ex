@@ -1,5 +1,4 @@
-#lagTimeDays
-# https://www.notion.so/Learning-Python-a2584d6b8f164d8e85e7c8fd5b32e27e
+# Task: generate text label. Conditions:
 # lagTimeDays <= 5 - Quick Shipping Usually ships in 1 business day*
 # lagTimeDays >5, <10 - Special Order Usually ships in 1-2 weeks*
 # lagTimeDays null - Special Order Usually ships in 1-2 weeks*
