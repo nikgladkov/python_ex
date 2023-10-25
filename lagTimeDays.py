@@ -18,4 +18,6 @@ def generateLabelText(lagTimeDays):
     
     return labeltxt
 
-print(generateLabelText(21))
+print("Enter number of lag time days: ")
+lagTimeDays = input()
+print(generateLabelText(lagTimeDays))
