@@ -19,5 +19,5 @@ def generateLabelText(lagTimeDays):
     return labeltxt
 
 print("Enter number of lag time days: ")
-lagTimeDays = input()
+lagTimeDays = int(input())
 print(generateLabelText(lagTimeDays))
