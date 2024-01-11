@@ -9,6 +9,8 @@ def is_polyndrome(teststr):
             str_alpha += x
     #reverse
     str_reversed = str_alpha[::-1]
+    #realize another way to reverse with shile
+    
     #compare strings
     if str_alpha == str_reversed:
         comparing_result = True
